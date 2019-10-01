@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "base64-encode-string": "^1.0.0",
-    "preact": "^8.5.2"
+    "preact": "8.5.2"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
