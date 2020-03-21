@@ -1,3 +1,5 @@
+**NOTE: Archiving this repo because I don't want to get security alerts on it anymore**
+
 # Preact v8 Browser Field
 
 Uncomment line in rollup.config.js to get rollup to correctly bundle UMD browser field for Preact
